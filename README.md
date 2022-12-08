@@ -19,3 +19,5 @@
 •	Which rockets has the highest price?
 •How many percentage of the missions were successful?
 
+## Conclusions
+Most of the missions were launched in Kazakhtan, there was 89.89% of success rate from all the launched and most of the missions were launched by RVSN USSR. Rocket that mostly used was Cosmos-3M(11k65m), and 78% of rocket used were retired
